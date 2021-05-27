@@ -124,10 +124,10 @@
   resolved "https://registry.yarnpkg.com/@vue/shared/-/shared-3.0.11.tgz#20d22dd0da7d358bb21c17f9bde8628152642c77"
   integrity sha512-b+zB8A2so8eCE0JsxjL24J7vdGl8rzPQ09hZNhystm+KqSbKcAej1A+Hbva1rCMmTTqA+hFnUSDc5kouEo0JzA==
 
-"@wazo/sdk@^0.35.6":
-  version "0.35.6"
-  resolved "https://registry.yarnpkg.com/@wazo/sdk/-/sdk-0.35.6.tgz#3896f79cb4871b7f7733e4bdfa48e9c88187fa8e"
-  integrity sha512-+yKNcspfUk1TDotarwhVgomn0WgE082QBGmRwMS/znOw7iKH8cxHaUYUegv0AsNi2XdBDwi+X4XxmfAAfNp/YA==
+"@wazo/sdk@^0.35.8-rc.2":
+  version "0.35.8-rc.2"
+  resolved "https://registry.yarnpkg.com/@wazo/sdk/-/sdk-0.35.8-rc.2.tgz#905f220285d84a88a77bf904008218fd1b29ab21"
+  integrity sha512-P4OrmJLn+dyWF1Ll5/whSaSGAjaXx+IjjTZtON4lwZklVNfeEXYG6eQ0LnnBz5M25/tlegNCTJNo7xOI3PKQ5Q==
   dependencies:
     events "^3.3.0"
     fstream "^1.0.12"

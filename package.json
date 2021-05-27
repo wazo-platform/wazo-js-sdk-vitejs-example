@@ -7,7 +7,7 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "@wazo/sdk": "^0.35.6",
+    "@wazo/sdk": "^0.35.8-rc.2",
     "vue": "^3.0.5"
   },
   "devDependencies": {
